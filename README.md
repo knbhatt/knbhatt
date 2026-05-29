@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushinbhatt">LinkedIn</a> •
-  <a href="mailto:[your email here]">Email</a> •
-  <a href="https://tryhackme.com/p/[your username]">TryHackMe</a>
+  <a href="mailto:[knbhatt0616@gmail.com]">Email</a> •
+  <a href="https://tryhackme.com/p/knbhatt">TryHackMe</a>
 </p>
 
 ---
